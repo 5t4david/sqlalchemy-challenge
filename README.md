@@ -16,7 +16,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 ## Step 1 - Climate Analysis and Exploration
 
-**Task 1** use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+**Task 1** - Use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 * Use the provided [starter notebook](climate_starter.ipynb) and [hawaii.sqlite](Resources/hawaii.sqlite) files to complete your climate analysis and data exploration.
 
@@ -66,7 +66,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 ## Step 2 - Climate App
 
-Now that you have completed my initial analysis, design a Flask API based on the queries that you have just developed.
+**Task 2** - Now that you have completed my initial analysis, design a Flask API based on the queries that you have just developed.
 
 * Use Flask to create your routes.
 
@@ -109,7 +109,7 @@ Now that you have completed my initial analysis, design a Flask API based on the
 
 - - -
 
-## Bonus: Other Recommended Analyses
+## Bonus Task: Other Recommended Analyses
 
 * The following are optional challenge queries. These are highly recommended to attempt.
 
